@@ -7,6 +7,7 @@ import org.json.*;
 
 
 public class utility {
+//changes are mad in utility file.
 	
 	 public static URL createUrl(String url) {
 	        URL myURL = null;
