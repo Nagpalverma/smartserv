@@ -7,6 +7,7 @@ import java.util.*;
 
 
 import smart_serv.utility;
+//this comment is for better understanding of git command.
 
 public class task1 {
 	
